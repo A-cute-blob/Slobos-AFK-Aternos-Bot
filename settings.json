@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "RankedSMP-F2kz.aternos.me",
+    "port": 64724,
     "version": "",
     "try-creative": false
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "kozmotgae"
     },
     "anti-afk": {
       "enabled": true,
@@ -32,7 +32,6 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
         "I like to play Minecraft!"
       ]
     },
@@ -73,8 +72,8 @@
     "place-night": false
   },
   "discord": {
-    "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "enabled": true,
+    "webhookUrl": "https://discord.com/api/webhooks/1557073563637518376/rwPKO68CMufSAv02qLbIZT4Oex1T2PFEPKFMFhHcbs3aGE8PeTW48hVNaJW7PHJart3a",
     "events": {
       "connect": true,
       "disconnect": true,
